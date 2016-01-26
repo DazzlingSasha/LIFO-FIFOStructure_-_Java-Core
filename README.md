@@ -1,2 +1,2 @@
-# LIFO-FIFO-Structure---Java-Core
-FInal project for Java Core - GoIT - #11
+# LIFO FIFO Structure - Java-Core
+Final project for Java Core - GoIT - #11
